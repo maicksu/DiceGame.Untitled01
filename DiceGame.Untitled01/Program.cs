@@ -34,6 +34,9 @@
             else
             {
                 Console.WriteLine("Skriv 'kasta' eller 'stanna' oi.");
+            
+            
+            
             }
             
 
