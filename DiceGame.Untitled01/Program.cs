@@ -33,7 +33,7 @@
             }
             else
             {
-                Console.WriteLine("Skriv 'kasta' eller 'stanna' oi.");
+                Console.WriteLine("Skriv 'kasta' eller 'stanna'.");
             
             
             
